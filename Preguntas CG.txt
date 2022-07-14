@@ -1,0 +1,34 @@
+Objetivo: Dentro de Code & Game cómo están los aspectos físicos, emocional y laborales.
+
+
+Perfilación
+Edad
+Género
+Área de especialización
+Años de experiencia en su campo
+
+Laboral
+En promedio ¿Cuántas horas trabajas a la semana?
+¿Cuál es el nombre de la empresa en la que trabajas?
+¿Cuánto ganas al mes?
+¿Cuánto ganas al año?
+En los últimos 6 meses ¿Cuáles han sido las herramientas que más utilizas en el trabajo? Nos referimos a lenguajes de programación, softrware o paqueterías que utilices
+En los últimos 6 meses ¿Cuáles han sido las herramientas suaves más útiles en tu trabajo.
+
+Salud Física
+En los últimos 6 meses
+En promedio ¿Cuántas horas puedes ejercitarte o hacer alguna actividad física a la semana?
+Del 1 al 5 ¿Qué tan frecuente has perdido alguna comida por trabajo?
+Del 1 al 5 ¿Qué tan bien consideras que te alimentas?
+En promedio ¿Cuántas horas duermes en los días de trabajo?
+Del 1 al 5 ¿Qué tan frecuente has perdido ahoras de sueño por trabajo?
+
+Salud Emocional
+En los últimos 6 meses
+Del 1 al 5 Sientes que tu trabajo aporta a la sociedad
+Del 1 al 5 Has tenido roces/conflictos personales en tu trabajo
+Del 1 al 5 ¿qué tan realizado profesionalmente te has sentido?
+Del 1 al 5 ¿qué tan comprometido estás con tu trabajo?
+¿Has presentado ansiedad o algún otro síntoma/diagnóstico emocional o psicológio derivado de tu trabajo?
+
+I. Emocional
